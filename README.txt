@@ -19,3 +19,5 @@ I have used various flutter widgets to build my app and these are:
 Besides the widgets, I downloaded images from online and added them to my app. The link to the images is here:
 
 https://www.google.com/search?q=headphone&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi52_Xk4truAhVRExoKHbIDBskQ_AUoAXoECBQQAw
+
+Lastl but not least I used the official documentation of flutter
