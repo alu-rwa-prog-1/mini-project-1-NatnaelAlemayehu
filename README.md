@@ -3,5 +3,5 @@ The objective of this assignment is to create beautiful apps faster with Flutter
 
 # GIF of app screens
 
-![](screens.gif)
+<img src="screens.gif" width="250" height="250"/>
 
